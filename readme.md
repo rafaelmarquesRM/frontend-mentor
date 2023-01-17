@@ -9,6 +9,18 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
 ⭐⭐⭐⭐⭐ - Guru <br>
 
 ## Challenges
-Difficult |          Name          |    Tech    |   Link
-----------|------------------------|------------|---------|
-    ⭐    | QR Code Component Main | HTML, CSS  | [View code](https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/qr-code-component-main)                                                           [Preview](https://rafaelmarquesrm-frontend-mentor.netlify.app/qr-code-component-main/)
+   <table>
+    <tr>
+        <th>Difficult</th>
+        <th>Name</th>
+        <th>Tech</th>
+        <th>Link</th>
+    </tr>
+   
+    <tr>
+        <td>⭐</td>
+        <td>QR Code Component Main</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/qr-code-component-main">View code</a>, <a href="https://rafaelmarquesrm-frontend-mentor.netlify.app/qr-code-component-main/">Preview</a></td>
+    </tr>
+   </table>
