@@ -20,7 +20,7 @@ body {
   background: var(--light-gray);
 }
 
-.card {
+main {
   padding: 1rem;
   text-align: center;
   background-color: var(--white);
@@ -29,19 +29,26 @@ body {
   width: 375px;
 }
 
-.card img {
+main img {
   border-radius: 1rem;
   width: 100%;
-  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
 }
 
-.card h2 {
+main h1 {
   color: var(--dark-blue);
   margin: 1rem auto;
 }
 
-.card p {
+main p {
   color: var(--grayish-blue);
   margin-bottom: 1rem;
-  font-weight: 700;
+}
+
+footer {
+  font-size: 11px; 
+  text-align: center;
+}
+
+footer a {
+  color: hsl(228, 45%, 44%);
 }
