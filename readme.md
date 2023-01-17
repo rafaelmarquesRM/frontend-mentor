@@ -16,7 +16,6 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
         <th>Tech</th>
         <th>Link</th>
     </tr>
-   
     <tr>
         <td>⭐</td>
         <td>QR Code Component Main</td>
