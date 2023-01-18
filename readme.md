@@ -24,8 +24,8 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
     </tr>
     <tr>
         <td>⭐</td>
-        <td>Product Preview Card Component</td>
+        <td>Product Preview Card Component Main</td>
         <td>HTML, CSS</td>
-        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/product-preview-card-component">View code</a>, <a href="https://rafaelmarquesrm-frontend-mentor.netlify.app/product-preview-card-component/">Preview</a></td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/product-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm-frontend-mentor.netlify.app/product-preview-card-component-main/">Preview</a></td>
     </tr>
    </table>
