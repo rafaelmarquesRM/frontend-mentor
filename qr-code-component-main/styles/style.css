@@ -36,17 +36,22 @@ main img {
 
 main h1 {
   color: var(--dark-blue);
+  font-size: 1.6rem;
   margin: 1rem auto;
 }
 
 main p {
   color: var(--grayish-blue);
-  margin-bottom: 1rem;
+  margin-bottom: 1.6rem;
 }
 
 footer {
   font-size: 11px; 
   text-align: center;
+  padding: 1rem;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
 }
 
 footer a {
