@@ -18,7 +18,7 @@ p {
   font-size: 0.9rem;
 }
 
-ul {
+.available {
   list-style: none;
   display: flex;
   align-items: center;
@@ -27,7 +27,7 @@ ul {
   margin: 1rem 0rem;
 }
 
-ul li button {
+.available_item {
   width: 3rem;
   height: 3rem;
   border: none;
@@ -36,14 +36,23 @@ ul li button {
   color: var(--Medium-Grey);
   cursor: pointer;
   transition: all 0.3s;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-ul li button:hover{
+.available_item:hover {
   background-color: var(--Orange);
   color: var(--White);
 }
 
-ul li button:focus {
+.available_item:focus {
+  background-color: var(--Light-Grey);
+  color: var(--White);
+}
+
+.available_item.active {
   background-color: var(--Light-Grey);
   color: var(--White);
 }
