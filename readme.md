@@ -1,14 +1,17 @@
 # Intro
+
 This repository contain my solution for challenges from [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## Levels
+
 ⭐ - Newbie <br>
 ⭐⭐ - Junior <br>
-⭐⭐⭐ - Intermediate <br> 
+⭐⭐⭐ - Intermediate <br>
 ⭐⭐⭐⭐ - Advanced <br>
 ⭐⭐⭐⭐⭐ - Guru <br>
 
 ## Challenges
+
    <table>
     <tr>
         <th>Difficult</th>
@@ -27,5 +30,11 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
         <td>Product Preview Card Component Main</td>
         <td>HTML, CSS</td>
         <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/product-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm-frontend-mentor.netlify.app/product-preview-card-component-main/">Preview</a></td>
+    </tr>
+    <tr>
+        <td>⭐</td>
+        <td>Interactive Rating Component Main</td>
+        <td>HTML, CSS and JS</td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/interactive-rating-component-main">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/interactive-rating-component-main/">Preview</a></td>
     </tr>
    </table>
