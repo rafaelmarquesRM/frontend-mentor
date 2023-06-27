@@ -85,6 +85,22 @@ body {
   border: none;
 }
 
+.rating input[type="submit"]:disabled {
+  filter: brightness(0.5);
+  cursor: default;
+}
+
+.rating input[type="submit"]:disabled:is(:hover) {
+  background-color: var(--Orange);
+  color: var(--White);
+  border: none;
+  padding: 1rem;
+  border-radius: 1.2rem;
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: default;
+}
+
 .rating input[type="submit"] {
   background-color: var(--Orange);
   color: var(--White);

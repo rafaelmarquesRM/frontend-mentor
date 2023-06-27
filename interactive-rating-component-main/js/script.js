@@ -11,6 +11,7 @@ submitButton.addEventListener('click', () => {
 
 btnRates.forEach((buttonRate) => {
   buttonRate.addEventListener('click', () => {
+    submitButton.removeAttribute("disabled")
     rate.innerHTML = buttonRate.innerHTML
   })
 })
