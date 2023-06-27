@@ -27,6 +27,8 @@ main {
   align-items: center;
   flex-direction: column;
   height: 100vh;
+  background-image: url("../images/pattern-background-mobile.svg");
+  background-repeat: no-repeat;
 }
 
 .hero-img {
@@ -40,6 +42,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: white;
 
   border-radius: 0 0 1rem 1rem;
   box-shadow: 5px 15px 15px 8px rgba(0, 0, 0, 0.1);
@@ -148,4 +151,11 @@ main {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 375px) {
+  main {
+    background-image: url(../images/pattern-background-desktop.svg);
+    background-repeat: repeat-x;
+  }
 }
