@@ -49,4 +49,10 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
         <td>HTML, CSS</td>
         <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/nft-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/nft-preview-card-component-main/">Preview</a></td>
     </tr>
+    <tr>
+        <td>⭐</td>
+        <td>Order Summary Component Main</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/order-summary-component-main">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/order-summary-component-main/">Preview</a></td>
+    </tr>
    </table>
