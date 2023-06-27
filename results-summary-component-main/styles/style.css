@@ -190,7 +190,7 @@ main .summary button {
   padding: 1.3rem;
   font-size: 18px;
   border: none;
-  border-radius: 1.2rem;
+  border-radius: 2rem;
   background-color: var(--Dark-gray-blue);
   color: var(--White);
   font-weight: 500;
