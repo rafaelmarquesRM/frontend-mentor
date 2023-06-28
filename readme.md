@@ -61,4 +61,10 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
         <td>HTML, CSS</td>
         <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/stats-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/stats-preview-card-component-main/">Preview</a></td>
     </tr>
+    <tr>
+        <td>⭐</td>
+        <td>3-Column Preview Card Component</td>
+        <td>HTML, CSS</td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/3-column-preview-card-component">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/3-column-preview-card-component/">Preview</a></td>
+    </tr>
    </table>
