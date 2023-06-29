@@ -1,0 +1,126 @@
+:root {
+  /*Primary*/
+
+  --Dark-cyan: hsl(185, 75%, 39%);
+  --Very-dark-desaturated-blue: hsl(229, 23%, 23%);
+  --Dark-grayish-blue: hsl(227, 10%, 46%);
+
+  /*Neutral*/
+
+  --Dark-gray: hsl(0, 0%, 59%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 18px;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: var(--Dark-cyan);
+  background-image: url(../images/bg-pattern-top.svg),
+    url(../images/bg-pattern-bottom.svg);
+  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.15);
+  > .cover {
+    border-radius: 1rem 1rem 0 0;
+    object-fit: cover;
+    > .img-cover {
+      border-radius: 1rem 1rem 0 0;
+      overflow: hidden;
+    }
+  }
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  > .name {
+    margin-top: 1rem;
+    font-weight: 700;
+    > .age {
+      color: var(--Dark-gray);
+      font-weight: 400;
+    }
+  }
+  > .city {
+    font-size: 0.8rem;
+    color: var(--Dark-gray);
+    margin: 0.5rem 0;
+  }
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: var(--Dark-gray);
+  margin: 1rem 0;
+  width: 100%;
+  opacity: 0.3;
+}
+
+.profile-img {
+  border-radius: 50%;
+  border: 5px solid white;
+  margin-top: -3.3rem;
+  width: 6.6rem;
+}
+
+.datas {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0.5rem 1rem 2rem 1rem;
+  > .data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    > .data-title {
+      font-weight: 700;
+    }
+    > .data-info {
+      margin-top: 0.25rem;
+      font-size: 0.6rem;
+      color: var(--Dark-gray);
+      letter-spacing: 2px;
+    }
+  }
+}
+
+.attribution {
+  font-size: 11px;
+  color: white;
+  text-align: center;
+}
+.attribution a {
+  font-size: 11px;
+  color: hsl(182, 100%, 50%);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.attribution a:hover {
+  color: white;
+}
