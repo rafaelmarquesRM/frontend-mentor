@@ -19,9 +19,12 @@
 
 main {
   min-height: 100vh;
-  display: grid;
-  place-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   padding: 2rem 1rem;
+  background: var(--Very-light-gray);
 }
 
 .cards {
@@ -95,6 +98,7 @@ main {
 }
 
 .attribution {
+  margin-top: 1rem;
   font-size: 11px;
   text-align: center;
   font-family: sans-serif;
