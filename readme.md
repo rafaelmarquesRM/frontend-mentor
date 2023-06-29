@@ -65,6 +65,6 @@ This repository contain my solution for challenges from [Frontend Mentor](https:
         <td>⭐</td>
         <td>3-Column Preview Card Component</td>
         <td>HTML, CSS</td>
-        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/3-column-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm.github.io/frontend-mentor/3-column-preview-card-component-main/">Preview</a></td>
+        <td><a href="https://github.com/rafaelmarquesRM/frontend-mentor/tree/main/3-column-preview-card-component-main">View code</a>, <a href="https://rafaelmarquesrm-frontend-mentor.netlify.app/3-column-preview-card-component-main/">Preview</a></td>
     </tr>
    </table>
